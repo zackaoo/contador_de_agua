@@ -1,0 +1,6 @@
+# Exclui as pastas de plataforma da detecção de linguagem
+/android linguist-vendored
+/ios linguist-vendored
+/linux linguist-vendored
+/macos linguist-vendored
+/windows linguist-vendored
